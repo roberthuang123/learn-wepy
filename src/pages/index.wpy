@@ -192,7 +192,7 @@
         })
 
         promise.then((d) => {
-          // console.log('toast done')
+          console.log('toast done')
         })
       },
       tap () {
